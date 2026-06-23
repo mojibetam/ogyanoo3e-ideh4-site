@@ -1,13 +1,5 @@
 export default function Home() {
   return (
-    <main style={{ padding: 40 }}>
-      <h1>🌊 اقیانوس ایده‌ها</h1>
-      <p>پلتفرم چندمنظوره هوش مصنوعی، طراحی پیشرفته و ربات‌های حرفه‌ای</p>
-    </main>
-  )
-}
-export default function Home() {
-  return (
     <main style={{ padding: 40, fontFamily: 'sans-serif', backgroundColor: '#0f172a', color: '#f8fafc' }}>
       <h1 style={{ fontSize: 32, marginBottom: 20 }}>🌊 اقیانوس ایده‌ها</h1>
       <p style={{ fontSize: 18, lineHeight: 1.8 }}>
